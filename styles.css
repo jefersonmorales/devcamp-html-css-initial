@@ -1,7 +1,14 @@
-.contact-hours-wrapper {
-    color: royalblue;
+/* Common nav styles */
+.navigation-wrapper {
+    height: 190px;
+    background-color: #11122b;
+    color: #cbcbcb;
+    /* flexbox container */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-#address-wrapper {
-    color: red;
+.contact-hours-wrapper {
+    color: royalblue;
 }

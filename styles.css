@@ -27,3 +27,9 @@ body {
 .icon i {
     font-size: 2em;
 }
+
+.left-column>.contact-hours-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+}
